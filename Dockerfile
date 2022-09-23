@@ -1,2 +1,2 @@
-FROM nginx:1.0
+FROM nginx:latest
 COPY ./catch-info /usr/share/nginx/html
